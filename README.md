@@ -1,6 +1,6 @@
 # MED Lab project
 
-Group project for Lab 1 in Methods of Data Exploration.
+Group project for Lab in Methods of Data Exploration.
 
 ## Tasks
 - Meta: fit regression models and compare forecasts for 2018–2025 with actual data.
